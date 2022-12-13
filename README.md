@@ -27,4 +27,4 @@ This submimssion includes:
     - Screenshot of the 2020 Results
     - The VBA code copied into a Word Document
     - The VBA code saved directly from the VBA Editor in a .txt file
-    - Code 
+    - Code saved in the .vbs format (the TAs during office hours helped with this one)
