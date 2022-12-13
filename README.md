@@ -17,3 +17,14 @@ Lastly, this script provides a summary box noting the ticker symbol and value fo
 Support
 
 I reached out to the AskBCS Learning Assistant, had a tutoring session and joined office hours for the support needed for this challenge assignment.
+
+
+Submission Includes
+
+This submimssion includes:
+    - Screenshot of the 2018 Results
+    - Screenshot of the 2019 Results
+    - Screenshot of the 2020 Results
+    - The VBA code copied into a Word Document
+    - The VBA code saved directly from the VBA Editor in a .txt file
+    - Code 
