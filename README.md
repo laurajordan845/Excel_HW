@@ -22,9 +22,15 @@ I reached out to the AskBCS Learning Assistant, had a tutoring session and joine
 Submission Includes
 
 This submimssion includes:
+
     - Screenshot of the 2018 Results
+    
     - Screenshot of the 2019 Results
+    
     - Screenshot of the 2020 Results
+    
     - The VBA code copied into a Word Document
+    
     - The VBA code saved directly from the VBA Editor in a .txt file
+    
     - Code saved in the .vbs format (the TAs during office hours helped with this one)
